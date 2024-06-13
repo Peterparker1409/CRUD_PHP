@@ -139,7 +139,7 @@ if (isset($_POST['simpan'])) {
     </div>
  
     <footer class="bg-dark text-white text-center" style="padding: 5px;">
-        <p>Tạo bởi <a href="https://instagram.com/vikrysurya_" target="_blank" style="color: #fff;">Hiếu Pc</a> <i class="bi bi-suit-heart-fill" style="color: red;"></i></p>
+        
     </footer>
     <!-- Đóng Footer -->
     <!-- Bootstrap -->
